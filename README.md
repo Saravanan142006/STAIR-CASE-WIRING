@@ -1,6 +1,6 @@
 # STAIR-CASE-WIRING
-### Name:bhuvaneshwaran M
-### Reg.no: 212223080008
+### Name:Saravanan M
+### Reg.no: 212223080050
 AIM
 To control the status of the given lamp by using two – way switches.
 
@@ -44,4 +44,8 @@ Cross Connection:
 
 Tabulation 2:
 <img width="441" height="179" alt="image" src="https://github.com/user-attachments/assets/7e12941b-98a1-4d1b-973f-d78670621351" />
+
+
+Result: 
+The experiment was performed sucessfully.
 
